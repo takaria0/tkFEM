@@ -1,0 +1,1 @@
+clang++ -std=c++11 -stdlib=libc++ -Weverything examples/2D/main.cc src/2D/triangular.cc src/2D/triangular.h
